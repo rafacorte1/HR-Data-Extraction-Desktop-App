@@ -169,14 +169,6 @@ HR-Data-Extraction-Desktop-App/
 
 ---
 
-## 🧪 Testing
-
-```bash
-pytest tests/
-```
-
----
-
 ## ⚠️ Disclaimer
 
 This is a generic reference implementation. The original production version targeted a specific enterprise Identity Management system and has been **fully anonymized** for public sharing — no real URLs, credentials, employee data, or proprietary selectors are exposed.
