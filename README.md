@@ -53,7 +53,7 @@ A standalone desktop application that automates the entire workflow:
 
 | Main Window | Results View |
 |---|---|
-| ![Main](docs/screenshots/main_window.png) | ![Results](docs/screenshots/results_view.png) |
+| ![Main](docs/screenshots/main_window.png)
 
 ---
 
