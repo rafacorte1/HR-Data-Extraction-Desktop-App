@@ -120,8 +120,8 @@ A standalone desktop application that automates the entire workflow:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/hr-access-extractor.git
-cd hr-access-extractor
+git clone https://github.com/<your-username>/HR-Data_Extraction-Desktop-App.git
+cd HR-Data-Extraction-Desktop-App
 python -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -155,7 +155,7 @@ python -m src.app
 ## 📂 Project Structure
 
 ```
-hr-access-extractor/
+HR-Data-Extraction-Desktop-App/
 ├── src/
 │   ├── app.py         # CustomTkinter GUI
 │   ├── scraper.py     # Selenium workflow
