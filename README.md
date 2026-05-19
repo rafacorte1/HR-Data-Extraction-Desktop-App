@@ -51,8 +51,8 @@ A standalone desktop application that automates the entire workflow:
 
 ### Screenshots
 
-| Main Window | Results View |
-|---|---|
+| Main Window |
+|---|
 | ![Main](docs/screenshots/main_window.png)
 
 ---
